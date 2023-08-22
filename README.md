@@ -4,9 +4,9 @@ Developed an annual sales report for Mega Store using analysis techniques to ana
 ![image](https://github.com/nirmalajay214/Exploratory-Data-Analysis-on-Mega-Store-Data/assets/92977128/38f2a7b3-33bc-4941-8946-6e3d7f45dead)
 
 Insights:
-1. Women are more likely to buy compared to men (-65%)
-2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (-35%)
-3. Adult age group (30–49 yrs) is max contributing (-50%)
+1. Women are more likely to buy compared to men (~65%)
+2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35%)
+3. Adult age group (30–49 yrs) is max contributing (~50%)
 4. Amazon, Flipkart, and Myntra channels are max contributing (~80%)
 
 **Final Conclusion to improve Vrinda store sales:**
